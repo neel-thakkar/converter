@@ -1,4 +1,4 @@
-# coverter
+# converter
 
 Web page created using basic HTML, CSS, and php.
 
